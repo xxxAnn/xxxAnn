@@ -1,16 +1,19 @@
-### Hi there 👋
+🌸➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌸
+## 私ってどんな人なの？
 
-<!--
-**Kyando2/Kyando2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+【名前】本名はあめひこですが「あめ」や「きゃんど」と呼ばれるというれしいです。<br>
+【年齢】２００６年２月５日に生まれて...<br>
+【性別】ひ・み・つ...じゃない男性ですよ！<br>
+【趣味】見てるどおりにプログラミング大好きですけどゲームやVtuべrとアニメの推しです.<br>
+【一言】 プログラミングするとわくわくして外界の全部を忘れちゃって...<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌸
+<br><br>
+<br><br>
+🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
+## 現在取り組んでいるプロジェクト
+### PyBlox2
+PyBloxはRoblox所属APIの操作のしんどいところをくれてやって日に日に向上をしてる。<br>今の所は１人だけど将来で人々の力をもらいたい。<br>
+### LuaBlox
+PyBloxみたいにRoblox所属APIの操作をくれてやってるけど今回はPythonじゃなくてLuaです<br>
+🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
