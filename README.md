@@ -17,3 +17,5 @@ PyBloxはRoblox所属APIの操作のしんどいところをくれてやって�
 ### LuaBlox
 PyBloxみたいにRoblox所属APIの操作をくれてやってるけど今回はPythonじゃなくてLuaです<br>
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
+
+よろしくお願いします！
