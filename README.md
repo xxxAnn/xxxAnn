@@ -13,10 +13,10 @@
 
 ## 今作っているプログラム
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇<br>
-### PyBlox
+### [PyBlox](https://github.com/Kyando2/Pyblox)
 RobloxのAPIのラッパーライブラリです。<br>
-### LuaBlox
-
+### [Kyano](https://github.com/Kyando2/Kyano)
+LuaのLove2Dというライブラリで作っている1v1オンラインゲームです。
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
 
 **★よろしくお願いします！★**
