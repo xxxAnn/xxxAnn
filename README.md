@@ -16,7 +16,7 @@
 ### [PyBlox](https://github.com/Kyando2/Pyblox)
 RobloxのAPIのラッパーライブラリです。<br>
 ### [Kyano](https://github.com/Kyando2/Kyano)
-LuaのLove2Dというライブラリで作っている1v1オンラインゲームです。
+LuaのLove2Dというライブラリで作っている1v1オンラインゲームです。<br>
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
 
 **★よろしくお願いします！★**<br>
