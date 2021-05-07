@@ -19,6 +19,6 @@ RobloxのAPIのラッパーライブラリです。<br>
 LuaのLove2Dというライブラリで作っている1v1オンラインゲームです。
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
 
-**★よろしくお願いします！★**
+**★よろしくお願いします！★**<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyando2&theme=tokyonight&&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyando2&theme=tokyonight&&langs_count=10">
