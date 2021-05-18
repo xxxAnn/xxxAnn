@@ -3,7 +3,7 @@
 🌸➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌸<br>
 【名前】「きゃんど」でも「きゃんちゃん」でもいいです。<br>
 【年齢】16歳<br>
-【性別】男性<br>
+【性別】X <br>
 【趣味】アニメとVtuberをみること。<br>
 【一言】 連絡はDiscordで、ユーザー名はKyando#0001です。返事は気まぐれです。<br>
 
@@ -15,10 +15,32 @@
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇<br>
 ### [PyBlox](https://github.com/Kyando2/Pyblox)
 RobloxのAPIのラッパーライブラリです。<br>
-### [Kyano](https://github.com/Kyando2/Kyano)
-LuaのLove2Dというライブラリで作っている1v1オンラインゲームです。<br>
+### [Lucerna](https://github.com/Kyando2/Lucerna)
+私のプログラミング言語 <br>
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
 
 **★よろしくお願いします！★**<br>
+
+
+## Self Introduction
+🌸➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌸<br>
+【Name】Kyando<br>
+【Age】 years old<br>
+【Gender】X <br>
+【Hobbies】Anime and vtubers<br>
+【Additiona Info】 Contact me on discord, my username is Kyando#0001. I don't necessarily answer. <br>
+
+🌸➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌸
+<br><br>
+<br><br>
+
+## My programs introduction
+🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇<br>
+### [PyBlox](https://github.com/Kyando2/Pyblox)
+Roblox api wrapper written in Python
+### [Lucerna](https://github.com/Kyando2/Lucerna)
+My programming language <br>
+🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyando2&theme=tokyonight&&langs_count=10">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyando2&theme=tokyonight&&langs_count=10">
