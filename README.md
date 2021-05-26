@@ -16,7 +16,7 @@
 ### [PyBlox](https://github.com/Kyando2/Pyblox)
 RobloxのAPIのラッパーライブラリです。<br>
 ### [Lucerna](https://github.com/Kyando2/Lucerna)
-私のプログラミング言語 <br>
+私が作っているプログラミング言語<br>
 🎇➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🎇
 
 **★よろしくお願いします！★**<br>
