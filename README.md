@@ -1,6 +1,6 @@
 ## Self Introduction
 【Name】Kyando<br>
-【Hobby】Math & Science!
+【Hobby】Math & Science & Linguistics!
 
 ## My Programs!
 ### [PyBlox](https://github.com/Kyando2/Pyblox)
