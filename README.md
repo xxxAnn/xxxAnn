@@ -10,4 +10,4 @@ My programming language, interpreted implementation.
 
 ## Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyando2&theme=tokyonight&&langs_count=10">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyando2&theme=tokyonight&&langs_count=10">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyando2&theme=tokyonight&hide=html,css&&langs_count=10">
