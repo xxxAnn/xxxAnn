@@ -8,7 +8,7 @@
 Roblox api wrapper written in Python.
 ### [Lucerna](https://github.com/Kyando2/Lucerna)
 My programming language, interpreted implementation.
-### [Dizkord.jl](https://github.com/Humans-of-Julia/Dizkord.jl)
+### [Ekztazy.jl](https://github.com/Humans-of-Julia/Ekztazy.jl)
 Discord api wrapper written in Julia.
 
 ## Stats
