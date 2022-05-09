@@ -2,7 +2,9 @@
 【Name】Kyando<br>
 【Hobby】Math, Science & Linguistics!
 
-#### This is my public account for experimenting and having fun!
+#### This is my public account for experimenting!
+#### For business inqiuries contact me at kyanmauduydecius@gmail.com.
+
 ## My Programs!
 ### [PyBlox](https://github.com/Kyando2/Pyblox)
 Roblox api wrapper written in Python.
