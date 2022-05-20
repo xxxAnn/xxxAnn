@@ -1,5 +1,4 @@
 ## Self Introduction
-【Name】Kyando<br>
 【Hobby】Math, Science & Linguistics!
 
 #### This is my public account for experimenting!
