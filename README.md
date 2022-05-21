@@ -2,7 +2,7 @@
 【Hobby】Math, Science & Linguistics!
 
 #### This is my public account for experimenting!
-#### For business inqiuries contact me at kyanmauduydecius@gmail.com.
+#### For business inqiuries contact me at ann.mauduy.decius@gmail.com.
 
 ## My Programs!
 ### [PyBlox](https://github.com/Kyando2/Pyblox)
