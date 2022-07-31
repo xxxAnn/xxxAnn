@@ -15,5 +15,5 @@ My programming language, interpreted implementation.
 Discord api wrapper written in Julia.
 
 ## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyando2&theme=tokyonight&&langs_count=10">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyando2&theme=tokyonight&hide=html,css,python,javascript&&langs_count=10">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxAnn&theme=tokyonight&&langs_count=10">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxAnn&theme=tokyonight&hide=html,css,python,javascript&&langs_count=10">
