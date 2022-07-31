@@ -1,3 +1,5 @@
+I'm a cuter girl than you. I win, checkmate.
+
 ## Self Introduction
 【Hobby】Math, Science & Linguistics!
 
