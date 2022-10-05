@@ -1,4 +1,4 @@
-I'm a cuter girl than you. I win, checkmate.
+I'm cuter than you. I win, checkmate.
 
 ## Self Introduction
 【Hobby】Math, Science & Linguistics!
