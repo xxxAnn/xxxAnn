@@ -7,8 +7,10 @@ I'm cuter than you. I win, checkmate.
 #### For business inqiuries contact me at ann.mauduy.decius@gmail.com.
 
 ## My Programs!
-### [Lucerna](https://github.com/Kyando2/Lucerna)
+### [Lucerna](https://github.com/xxxAnn/Lucerna)
 My programming language, interpreted implementation.
+### [Lucerna](https://github.com/xxxAnn/FlappyBird10)
+FlappyBird10, just another flappy bird clone!
 
 ## Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxAnn&theme=tokyonight&&langs_count=10">
