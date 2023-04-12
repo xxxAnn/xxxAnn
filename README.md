@@ -1,4 +1,7 @@
-I'm cuter than you. I win, checkmate.
+HAHA I HATE MYSELF
+
+*ahem*
+
 
 ## Self Introduction
 【Hobby】Math, Science & Linguistics!
