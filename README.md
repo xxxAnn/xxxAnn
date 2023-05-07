@@ -18,8 +18,6 @@ Neural network library written in rust.
 Anilist API wrapper written in python.
 ### [kosmos](https://github.com/xxxAnn/kosmos)
 ECS implementation written in lua.
-### [Lucerna](https://github.com/xxxAnn/Lucerna)
-My programming language, interpreted implementation.
 ### [Secretary](https://github.com/xxxAnn/Secretary)
 Discord bot to run a server through a system of direct-democracy (written in rust).
 ### [Flappy Bird 10](https://github.com/xxxAnn/FlappyBird10)
