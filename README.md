@@ -13,7 +13,7 @@ HAHA I HATE MYSELF
 ### [Lucerna](https://github.com/xxxAnn/Lucerna)
 My programming language, interpreted implementation.
 ### [Fven](https://github.com/xxxAnn/fven)
-Neural network library written in rust.
+Experimentation with neural network adjacent structures.
 ### [Anilist.py](https://github.com/xxxAnn/anilist.py)
 Anilist API wrapper written in python.
 ### [kosmos](https://github.com/xxxAnn/kosmos)
