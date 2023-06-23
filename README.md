@@ -7,7 +7,7 @@ HAHA I HATE MYSELF
 【Hobby】Math, Science & Linguistics!
 
 #### This is my public account for experimenting!
-#### Business email: ann.mauduy.decius@gmail.com.
+#### Contact me: ann.mauduy.decius@gmail.com.
 
 ## My Programs!
 ### [Lucerna](https://github.com/xxxAnn/Lucerna)
