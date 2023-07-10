@@ -1,4 +1,4 @@
-Hi! I'm Ann, I love Math, Science & Linguistics!
+Hi! I'm Ann, I love Math & Linguistics!
 
 #### Contact me: annmauduydecius@outlook.com
 
