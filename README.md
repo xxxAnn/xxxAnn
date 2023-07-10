@@ -1,15 +1,8 @@
-HAHA I HATE MYSELF
-
-*ahem*
-
-
-## Self Introduction
 【Hobby】Math, Science & Linguistics!
 
-#### This is my public account for experimenting!
-#### Contact me: ann.mauduy.decius@gmail.com.
+#### Contact me: annmauduydecius@outlook.com
 
-## My Programs!
+## Some cool programs!
 ### [Lucerna](https://github.com/xxxAnn/Lucerna)
 My programming language, interpreted implementation.
 ### [Fven](https://github.com/xxxAnn/fven)
