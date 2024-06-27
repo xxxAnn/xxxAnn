@@ -5,8 +5,6 @@ Hi! I'm Ann, I love Math & Linguistics!
 ## Some cool programs!
 ### [Lucerna](https://github.com/xxxAnn/Lucerna)
 My programming language, interpreted implementation.
-### [Fven](https://github.com/xxxAnn/fven)
-Experimentation with neural network adjacent structures.
 ### [Anilist.py](https://github.com/xxxAnn/anilist.py)
 Anilist API wrapper written in python.
 ### [kosmos](https://github.com/xxxAnn/kosmos)
