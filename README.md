@@ -1,6 +1,6 @@
 Hi! I'm Ann, I love Math & Linguistics!
 
-#### Contact me: annmauduydecius@outlook.com
+#### Contact me: rskhm.3@gmail.com
 
 ## Some cool programs!
 ### [Lucerna](https://github.com/xxxAnn/Lucerna)
